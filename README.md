@@ -28,7 +28,11 @@ This project does not validate or censor items from the archive copy of History 
 
 While the original historycommons.org provided for editing and commenting on items, our site currently does not. While we do want to provide the ability for trusted users to add and modify items, we will not allow comments or allow regular users to add or edit items. We encourage open discourse, just not here. Please do not add comments about editing or removing content to our github repository.
 
-### TODO: Add a discussion portal
+### Discussions
+Discussions are welcome here: https://github.com/robbiebyrd/historycommons/discussions/categories
+PLEASE NOTE: We will maintain very strict standards for moderation of our discussions. Please see below for valid areas of discussion. Messages deemed defamatory, harassing, abusive or intentionally insensitive will be removed.
+
+As much as we'd like to have a very open and un-moderated discussion, given the topic we know this is impossible. Thank you for adhering to our areas of discussion.
 
 ### Areas of discussion
 Our project team are history students and archivists. We are not, and do not serve, as experts in, and discourage discussions about:
