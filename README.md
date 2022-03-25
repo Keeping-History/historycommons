@@ -28,14 +28,17 @@ This project does not validate or censor items from the archive copy of History 
 
 While the original historycommons.org provided for editing and commenting on items, our site currently does not. While we do want to provide the ability for trusted users to add and modify items, we will not allow comments or allow regular users to add or edit items. We encourage open discourse, just not here. Please do not add comments about editing or removing content to our github repository.
 
-TODO: Add a discussion portal
-Our project team are history students and archivists. We are not, and do not serve, as experts in:
+### TODO: Add a discussion portal
+
+### Areas of discussion
+Our project team are history students and archivists. We are not, and do not serve, as experts in, and discourage discussions about:
 * foreign policy
 * terrorism
 * the military, FBI, CIA or other investigative/law enforcement agencies
 * conspiracies
 * politics
 * the FBI, CIA and other intelligence agencies
+* foreign countries, agents, political apparatus or other political organizations
 
 Areas we do encourage discussion:
 * FDNY (New York City Fire Deparment)
