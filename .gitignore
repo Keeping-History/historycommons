@@ -1,1 +1,8 @@
 .DS_Store
+pyvenv.cfg
+bin/
+lib/
+include/
+*.code-workspace
+*.pyc
+__pycache__/
